@@ -1,0 +1,1 @@
+import{a as e,c as t,s as n}from"./progress-client.Zb7BTaLV.js";import{r}from"./queue.BQUu3dnX.js";import{t as i}from"./jsx-runtime.my7kfxKQ.js";var a=i();function o({current:i}){let o=n(),s=e(),c=t(),l=o&&s?r(o,s,c).length:0;return(0,a.jsxs)(`a`,{href:`/review/`,className:`nav-link`,"aria-current":i?`page`:void 0,children:[`Review`,l>0?` (${l} due)`:``]})}export{o as default};
