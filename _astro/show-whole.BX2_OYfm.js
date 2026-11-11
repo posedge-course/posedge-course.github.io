@@ -1,0 +1,1 @@
+function e(e){e.currentTarget.scrollIntoView({block:`nearest`})}export{e as t};

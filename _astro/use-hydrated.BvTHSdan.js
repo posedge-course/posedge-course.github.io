@@ -1,0 +1,1 @@
+import{t as e}from"./react.DHsaPJjs.js";var t=e(),n=()=>()=>{};function r(){return(0,t.useSyncExternalStore)(n,()=>!0,()=>!1)}export{r as t};

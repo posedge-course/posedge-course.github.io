@@ -1,0 +1,11 @@
+{
+  "name": "Posedge",
+  "short_name": "Posedge",
+  "description": "A short, free, interactive FPGA course.",
+  "start_url": "/dashboard/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#FBFBFB",
+  "theme_color": "#151515",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}

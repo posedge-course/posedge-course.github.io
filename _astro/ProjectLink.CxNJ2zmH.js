@@ -1,0 +1,1 @@
+import{s as e}from"./unlock.uC2AT4iE.js";import{t}from"./jsx-runtime.my7kfxKQ.js";var n=t();function r({course:t,data:r,level:i}){let a=e(t,r,i);return a?(0,n.jsx)(`p`,{className:`mt-3`,children:(0,n.jsxs)(`a`,{href:`/learn/level-${i}/project/`,children:[`Level `,i,` project: `,a.title,`, about `,a.minutes,` minutes in simulation`]})}):null}export{r as t};
